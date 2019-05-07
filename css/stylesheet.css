@@ -1,0 +1,27 @@
+
+.column h2 a {
+  font-style: italic;
+}
+.column h2 b{
+  text-shadow: 4px 10px 10px #fff, 9px 8px 0px rgba(5,0,0,0.15);
+}
+.column p b {
+  font-style: bold;
+  color: green;
+  font-family: sans-serif;
+}
+.column p c {
+  font-style: suspendisse;
+  font-size: 11;
+}
+.column {
+  width: 300px;
+  float: left;
+  padding: 5px;
+  border: black;
+  margin: 5px;
+}
+img {
+    max-width: 300px;
+    max-height: 300px;
+}
